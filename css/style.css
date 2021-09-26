@@ -93,18 +93,16 @@ table{
 }
 
 tr:hover{ 
-  background-color: rgba(156, 137, 142, 0.25);
+  background-color: rgba(126, 8, 37, 0.25);
 }
 
 tbody tr:nth-child(even):hover{ 
-  background-color: rgba(156, 137, 142, 0.25);
-}
+  background-color: rgba(126, 8, 37, 0.25);
+} 
 
 /* I gave you the selector, but not the property-value pair. 
 You can use Inspect Element or your editor to find selectors. */
-thead {
- 
-}
+
 
 th.colhead:first-child{  
   border-top-left-radius: 50px;
@@ -126,7 +124,7 @@ tr:last-child td:last-child {
 
 
 tbody tr:nth-child(even) {
-  background: #DDDDDD;
+  background: #D1D1D1;
 }
 
 th:first-child{
